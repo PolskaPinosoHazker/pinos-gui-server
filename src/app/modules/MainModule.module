@@ -1,0 +1,15 @@
+{
+  "props": [],
+  "components": {
+    "timer": {
+      "type": "script\\TimerScript",
+      "x": 720.0,
+      "y": 112.0,
+      "props": {
+        "interval": 2500,
+        "repeatable": false,
+        "autoStart": false
+      }
+    }
+  }
+}
